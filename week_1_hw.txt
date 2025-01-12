@@ -1,0 +1,74 @@
+1.Ronald Aylmer Fisher was an English statistician, evolutionary biologist, and geneticist who worked on a data set that contained sepal length and sepal width, and petal length and petal width from three species of flowers(setosa,versicolor,virgina). There were 40 flowers in each species in the data set.
+(a) How many cases are included in the data?
+    Cases = (Number of types ) x (Number of each type) 
+          = (Number of species of flowers) x (Number of flowers in each species) 
+          = 3 x 40 
+    Cases = 120
+
+(b) How many numerical variables are included in the data? Indicate what they are and if they are continuous or discrete
+    Four continuous variables are included in the data: sepal length, sepal width, petal length, and petal width 
+
+(c) How many categorical variables are included in the data and what are they? List the corresponding levels
+    One categorical variable, species of flower, with three levels: setosa, versicolor, and virgina
+
+
+2. A small company took a survey on all of its 70 employees to determine what proportion participates in volunteer activities. In a stats class, four students made the following statements. Which of the following response is true?
+   Student A: the company should not use this data because this is an observational study
+   Student B: the company can use this result to prove that working for the company causes employees to participate in volunteer activities
+   Student C: the company did not select a random sample of employees, so the survey will not provide with any useful in formation
+   Student D: the company can determine the proportion because this survey was already a census of all of its employees
+
+   Student D: Since the survey was conducted with all 70 employees, it represents a complete census of all employees. This means that the company has accurate data on the participation in volunteer activities for the entire population of interest. Hence, the proportion can be calculated directly from the data collected
+
+
+3. In a survey, a random sample of 1,155 Americans was asked the question:”After an average work day, about how many hours do you spend doing other activities?” The average time spent relaxing was found to be 1.50 hours. Determine which of the following is an observation, a variable, a sample statistic, or population parameter
+  (a)One american in the sample
+     observation
+  (b) Number of hours spent relaxing after an average day of work
+     variable
+  (c) 1.50
+     Sample statistic 
+  (d) Average number of hours all americans spend relaxing after an average work day
+     Population parameter
+
+
+4. In one 2009, a team of researchers recruited 38 men and divided them into two groups: treatment or control. They also recruited 38 women, and they randomly placed half into the treatment group and the other half into the control group. One group was given 25 grams of chia seeds twice a day, and the other was given placebo. The subjects volunteered to be part of the study. After 12 weeks, the scientist found no significant difference between the groups in appetite or weight loss.
+  (a) What type of study is this
+      Experiment: there is a treatment and control group that are being studied
+  (b) What are the experimental and control treatments in this study?
+      Experimental treatment: 25 grams of chia seeds twice a day, Control treatment: placebo
+  (c) Has blocking been used in this study? If so what is the blocking variable
+      Yes, sex (men & women)
+  (d) Has blinding been used in this study?
+      Yes, single blind since the subjects were blinded to the treatment they received
+  (e) Comment on whether or not we can make a causal statement and indicate whether or not we can generalize the conclusion to the population at large.
+      Since this is an experiment, we can make a causal statement. However since the sample is not random, the causal statement cannot be generalized to the population at large.
+
+
+5. A study is designed to test the effect of light level on exam performance of students. The researcher believes that light levels might have different effects on males and females, so wants to make sure both are equally represented in each treatment. The treatments are fluorescent overhead lighting, yellow overhead lighting, no overhead lighting(only desklamps).
+  (a) What is the response variable
+      Exam performance is the response variable. Since exam performance is suspected to be influenced by light levels.
+  (b) What is the explanatory variable? What are its levels?
+      Light levels is the explanatory variable. The levels of the explanatory variable are:fluorescent overhead lighting, yellow overhead lighting, no overhead lighting(only desklamps)
+  (c) What is the blocking variable? What are its levels?
+      Sex is the blocking variable. The levels of the blocking variable are male and female.
+
+
+6. Briefly outline a design for a blind randomized control trail using your classmates as participants to determine preference for the taste of coke or pepsi.
+  (a) Step1: Prepare two cups for each participant, one containing coke and the other containing pepsi. Make sure the cups are identical and contain equal amounts of soda. Label the cups A (coke) and B (pepsi). Make sure to randomize A and B for each trial.
+Step 2: Give each participant the two cups, one cup at a time, in random order, and ask the participant to record a value that indicates how much they liked the beverage. Be sure that neither the participant or person handing out the cups knows the identity of the beverage to make this a double-blind experiment.
+
+
+7. The scatterplot below(see pdf) shows the relationship between per capita income(in thousands of dollars) and percent of population with a bachelor’s degree in 3,143 counties in the US in 2010.
+  (a) What are the explanatory and response variables?
+      Explanatory variable: Percent with a Bachelor’s degree   Response variable: Per capita income
+  (b) Describe the relationship between the two variables. Make sure to identify unusual observations, if any.
+      There is a strong positive linear relationship between these two variables. An ‘eye test’ reveals that there doesn’t seem to be any unusual observations. Please note that without the raw data and consequently a clear way to define “unusual observation” it is not possible to accurately establish any unusual observations beyond the ‘eye test’ stated above.
+  (c) Can we conclude that having a bachelor’s degree increases one’s income?
+      You can not conclude this because correlation does not imply causation.
+
+
+8. Researchers analyzed data from 23,123 health plan members who participated in a voluntary exam and health behavior survey from 1978 to 1985, when they were 50-60 years old . 23 years later about 25% of the group had dementia, including 1,136 with Alzheimer's disease and 416 with vascular dementia. After adjusting for other factors, the researchers concluded that pack-a-day smokers were 37% more likely than nonsmokers to develop dementia, and the risks went up with and increased smoking; 44% for one to two packs a day; and twice the risk for more than two packs.
+  (a) Based on this study can we conclude that smoking causes dementia later in life? Explain your reasoning.
+      No, this is an observational study. Conclusions can only be drawn from experiments.
+
